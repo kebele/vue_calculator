@@ -1,4 +1,9 @@
+
 <template>
+<!-- 
+thanks to 
+https://github.com/codyseibert/vue-calculator
+ -->
   <div id="app">
     
     <Calculator />
