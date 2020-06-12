@@ -1,0 +1,5 @@
+VUE Calculator 
+
+* gerekli temizlik işlemleri
+* grid kullanacağız
+* Calculator.vue bir component olacak, içinde grid style hazırlayacağız
